@@ -1,5 +1,5 @@
  PAGE-2018-Workshop
-## PK-Sim® &amp; MoBi® (OSPS®) workshop on integrating PBPK with QSP for in-silico first-in-man PD predictions 
+## PK-Sim® &amp; MoBi® workshop on integrating PBPK with QSP for in-silico first-in-man PD predictions 
 
 esqLABS is running a one-day hands-on **PK-Sim® & MoBi®** workshop on **integrating PBPK with QSP for in-silico first-in-man PD predictions** on **Monday 28 May**. The workshop covers the concepts and application of combining PK-Sim, MoBi and R to build your very own digital platforms for the prediction of clinical trial outcomes by leveraging physiological and mechanistic knowledge to translate early in-vitro and preclinical outcomes to the clinic. During hands-on exercises you will learn how to:
 

@@ -1,15 +1,15 @@
  PAGE-2018-Workshop
-## PKSim® &amp; MoBi® (OSPS®) workshop on integrating PBPK with QSP for in-silico first-in-man PD predictions 
+## PK-Sim® &amp; MoBi® (OSPS®) workshop on integrating PBPK with QSP for in-silico first-in-man PD predictions 
 
-esqLABS is running a one-day hands-on **PKSim® & MoBi® (OSPS®)** workshop on **integrating PBPK with QSP for in-silico first-in-man PD predictions** on **Monday 28 May**. The workshop covers the concepts and application of combining PKSim, MoBi and R to build your very own digital platforms for the prediction of clinical trial outcomes by leveraging physiological and mechanistic knowledge to translate early in-vitro and preclinical outcomes to the clinic. During hands-on exercises you will learn how to:
+esqLABS is running a one-day hands-on **PK-Sim® & MoBi® (OSPS®)** workshop on **integrating PBPK with QSP for in-silico first-in-man PD predictions** on **Monday 28 May**. The workshop covers the concepts and application of combining PK-Sim, MoBi and R to build your very own digital platforms for the prediction of clinical trial outcomes by leveraging physiological and mechanistic knowledge to translate early in-vitro and preclinical outcomes to the clinic. During hands-on exercises you will learn how to:
 
-- [x] Build a PBPK model in PKSim and compare to observed data
+- [x] Build a PBPK model in PK-Sim and compare to observed data
 - [x] Integrate mechanism-based pharmacodynamics in MoBi
 - [x] Simulate and analyze your PBPK-QSP model in R
 
-This workshop will be held jointly by consultants & scientists from esqlabs GmbH and Bayer AG with extensive experience in the use of **PKSim® & MoBi® (OSPS®)** in all application areas. 
+This workshop will be held jointly by consultants & scientists from esqlabs GmbH and Bayer AG with extensive experience in the use of **PK-Sim® & MoBi® (OSPS®)** in all application areas. 
 
-While the workshop does not require any prior experience with PKSim® & MoBi®, many topics will be of interest even for advanced users.
+While the workshop does not require any prior experience with PK-Sim® & MoBi®, many topics will be of interest even for advanced users.
 
 **Cost**: 300 EUR. Academics & non-profit organization employees 180 EUR to cover the room, lunch and coffee breaks. 
 

@@ -15,11 +15,11 @@ While the workshop does not require any prior experience with PK-Sim® & MoBi®,
 
 For more information and registration, please email Stephan on workshop@esqLABS.com.
 
-The workshop is currently restricted to 30 participants.
+The workshop is currently restricted to 20 participants.
 
 ## AGENDA
 
-As a use-case for above learnings, we will develop a PB-QSP model for naked antibody pre-treatment (nAb) for antibody-drug congugates (ADC) treatment of tumor growth, in detail:
+As a use-case for above learnings, we will develop a PB-QSP model for naked antibody pre-treatment (nAb) for antibody-drug conjugates (ADC) treatment of tumor growth, in detail:
 
 | Time (Monday 28 May) | Topic |
 | ------------- | ------------- |
